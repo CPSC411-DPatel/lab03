@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  VolunteerIDMaker
 //
-//  Created by Paul Inventado on 2/25/22.
+//  
 //
 
 import SwiftUI
